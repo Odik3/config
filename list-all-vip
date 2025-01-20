@@ -6,3 +6,7 @@ vless://55b213ea-95ef-5578-9d3d-aa0360c5299b@45.137.155.134:2052?security=&type=
 vless://24347e96-912c-4f53-9c67-9cc895fc6fdf@185.146.173.20:2082?security=&type=ws&path=/&host=h5.xn--gmq282ekfhyys3gs.com.&encryption=none#%F0%9F%87%B8%F0%9F%87%AAVless%201403.10.29%0AChannel:%20@OpenSSTPVpn
 hy2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%F0%9F%87%BA%F0%9F%87%B8hysteria%C2%B2%201403.10.29%0AChannel:%20@OpenSSTPvpn
 hy2://e3f4729d-2bdf-4326-a2a7-c8678da4121c@107.149.212.189:47085?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8hysteria%C2%B2%201403.10.29%0AChannel:%20@OpenSSTPvpn
+tuic://bc97f674-c578-4940-9234-0a1da46041b9:admin123@213.189.52.181:54555?congestion_control=bbr&alpn=h3&sni=www.bing.com&udp_relay_mode=native&allow_insecure=1#Poland-213.189.52.181
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#US
+hy2://cd52ca03-5685-47a0-85f3-a557f3383a61@xinyiyuan-ca.jiumaojiu.org:443?mport=49001-49999&sni=xinyiyuan-ca.jiumaojiu.org#CA
+hy2://cd52ca03-5685-47a0-85f3-a557f3383a61@xinyiyuan-us.jiumaojiu.org:443?mport=49001-49999&sni=xinyiyuan-us.jiumaojiu.org#US
