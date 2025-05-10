@@ -11,3 +11,9 @@ vless://39382039-3920-4130-b020-313032203438@ee-1.stunnel.cc:8442?security=reali
 trojan://tunnel-fr21a1qa@fr-2.stunnel.cc:8441?security=tls&sni=creativecommons.org&alpn=http/1.1&allowInsecure=1&type=tcp#[TrojanVPN]%20tunnel-fr21a1qa
 trojan://tunnel-eeaq1@ee-1.stunnel.cc:8441?security=tls&sni=creativecommons.org&alpn=http/1.1&allowInsecure=1&type=tcp#[TrojanVPN]%20tunnel-eeaq1
 vless://ecb32cfa-29f9-11f0-b636-139ba54e543d@158.69.48.14:10004?security=&type=ws&path=/vpnjantit&encryption=none#ca3az1-vpnjantit.com
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.199:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%F0%9F%87%AC%F0%9F%87%A7%20London,%20ENG,%20United%20Kingdom
+vless://26b50be8-e7b8-451d-adee-59825ad81ef5@82.29.190.227:443?security=reality&sni=apple.com&fp=chrome&pbk=3txs8T2vU1k1XIfa5T4sxkoNk9BmYN2Ce76gY2RwgFk&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#SkyWave%20VPN%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20UK%20%E2%84%961
+vless://26b50be8-e7b8-451d-adee-59825ad81ef5@45.89.189.130:443?security=reality&sni=debian.org&fp=chrome&pbk=3txs8T2vU1k1XIfa5T4sxkoNk9BmYN2Ce76gY2RwgFk&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#SkyWave%20VPN%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%E2%84%962
+vless://26b50be8-e7b8-451d-adee-59825ad81ef5@5.223.57.184:443?security=reality&sni=dl.google.com&fp=chrome&pbk=3txs8T2vU1k1XIfa5T4sxkoNk9BmYN2Ce76gY2RwgFk&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#SkyWave%20VPN%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%E2%84%961
+vless://26b50be8-e7b8-451d-adee-59825ad81ef5@5.78.142.173:443?security=reality&sni=apple.com&fp=chrome&pbk=3txs8T2vU1k1XIfa5T4sxkoNk9BmYN2Ce76gY2RwgFk&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#SkyWave%20VPN%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20US%20%E2%84%963
