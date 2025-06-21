@@ -7,3 +7,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtbmwyYXNxcXM=@nl-2.stunnel.cc:8444#[
 trojan://tunnel-ca2as22@ca-1.stunnel.cc:8441?security=tls&sni=creativecommons.org&alpn=http/1.1&allowInsecure=1&type=tcp#[TrojanVPN]%20tunnel-ca2as22
 vless://39372039-3820-4536-a034-382035352034@ca-1.stunnel.cc:8442?security=reality&sni=creativecommons.org&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#[Vless]%20tunnel-ca2as22
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtY2EyYXMyMg==@ca-1.stunnel.cc:8444#[Shadowsocks]%20tunnel-ca2as22
+vless://d895ff56-4ea0-11f0-af8e-ab87a5cdb395@141.98.233.74:10004?security=&type=ws&path=/vpnjantit&encryption=none#beg2dv6d-vpnjantit.com
