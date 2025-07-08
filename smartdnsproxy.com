@@ -122,7 +122,7 @@ US West - Seattle
 
 IPsec pre-shared key:s3CuREpaSs412
 
-SDPbGbojNhrHCPA
-m494ayoe@embekhoe.com
+APIAfxhNFsRekIw
+tabius.kashden@fsitip.com
 
-expiring on Saturday, July 19, 2025)
+ (expiring on Tuesday, July 22, 2025)
