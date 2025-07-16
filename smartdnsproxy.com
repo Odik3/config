@@ -1,4 +1,7 @@
-Supported protocols: OpenVPN, IKEv2, LT2P, PPTP, Openconnect (port 1600).
+SDPPYnwvNviIEbS
+za94msh@pithu.org
+
+(expiring on Tuesday, July 29, 2025)
 
 Country	City	Server name	SmartVPN	Torrent/P2P
 Canada	Toronto	ca-tor2-smart.serverlocation.co	YES	YES
@@ -122,7 +125,3 @@ US West - Seattle
 
 IPsec pre-shared key:s3CuREpaSs412
 
-APIAfxhNFsRekIw
-tabius.kashden@fsitip.com
-
- (expiring on Tuesday, July 22, 2025)
