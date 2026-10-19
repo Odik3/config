@@ -5,3 +5,7 @@ socks4://147.45.173.104:8080#NL
 socks5://147.45.173.104:8080#NL
 socks5://SDPwiKADddKcWJA:123456@188.126.73.130:1080#Smart-Sweden
 socks5://SDPwiKADddKcWJA:123456@92.39.53.108:1080#Smart-Switzerland
+ssh://138.124.3.66:22?user=sshocean-nl1aq1&password=1&private_key=&private_key_path=&private_key_passphrase=&host_key&host_key_algorithms&client_version=#nl1.sshweb.site
+ssh://78.135.110.150:22?user=tr6azs-vpnjantit.com&password=1&private_key=&private_key_path=&private_key_passphrase=&host_key&host_key_algorithms&client_version=#tr6.vpnjantit.com
+ssh://185.39.204.117:81?user=tur2sl1-vpnjantit.com&password=1&private_key=&private_key_path=&private_key_passphrase=&host_key&host_key_algorithms&client_version=#tr2.vpnjantit.com
+ssh://87.251.69.241:22?user=ausr1a-vpnjantit.com&password=1&private_key=&private_key_path=&private_key_passphrase=&host_key&host_key_algorithms&client_version=#at1.vpnjantit.com
